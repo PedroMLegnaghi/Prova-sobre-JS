@@ -1,7 +1,6 @@
-# Prova-sobre-JS
+# JavaScript Form Test
 
-##Tecnologias utilizadas
--HTML
+⚙Technologies used: <br>
+-JavaScript<br>
+-HTML<br>
 -CSS
--JavaScript
--GitHub
